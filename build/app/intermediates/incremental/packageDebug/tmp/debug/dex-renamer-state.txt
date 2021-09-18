@@ -1,0 +1,4 @@
+#Sat Sep 18 17:49:46 IST 2021
+base.0=/home/mithrandir/Flutter_Projects/Middle Earth Quizz/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
